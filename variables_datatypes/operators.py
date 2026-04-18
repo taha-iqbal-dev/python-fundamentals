@@ -15,7 +15,7 @@ print("Floor Division (a // b):", a // b)
 print("Modulus (a % b):", a % b)         
 print("Exponent (a ** b):", a ** b)      
 
-# Relaional  Operators- used for comparisons
+# Relational  Operators- used for comparisons
 print("\n---RELATIONAL OPERATORS---")
 print(f"Two variables a={a} and b={b}")
 print("a == b:", a == b)   # Equal
@@ -47,6 +47,6 @@ print("c *= 3:", c)
 c /= 2   # c = c / 2
 print("c /= 2:", c)
 
-print("\n---Type Insight---")
+print("\n---TYPE INSIGHT---")
 print("Type of a + b:", type(a + b))
 print("Type of a / b:", type(a / b))  # important: division gives float
