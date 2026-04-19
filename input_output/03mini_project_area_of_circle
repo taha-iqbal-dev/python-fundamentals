@@ -1,0 +1,8 @@
+# Finding area of a circle
+
+radius = int(input("Enter radius of circle: "))
+
+# Formula: area = πr²
+area = 3.14 * (radius ** 2)
+
+print("Area of circle is: ",area)
