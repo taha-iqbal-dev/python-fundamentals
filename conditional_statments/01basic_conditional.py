@@ -8,6 +8,6 @@ if age >= 18:
 elif age >= 13:
     print("Your are a teenager")
 else:
-    print("You are under age")
+    print("You are underage")
 
 # Note: invalid input (non-numeric) will cause an error
